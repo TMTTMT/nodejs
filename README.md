@@ -5,4 +5,4 @@
 - Mở browser nhập đường link [localhost:8080](http://localhost:8080)
 - Mở thêm 1 tab và truy cập link trên là bắt đầu chat
 
-[^1]: Demo này hiện tại chỉ chạy trên localhost chưa thông qua mạng
+***Demo này hiện tại chỉ chạy trên localhost chưa thông qua mạng***
