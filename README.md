@@ -1,4 +1,4 @@
-### Hướng dẫn chạy demo [^1].
+### Hướng dẫn chạy demo
 
 - Mở terminal (CMD hoặc Powershell)
 - Chạy lệnh `node index.js`
